@@ -115,7 +115,7 @@ Here are some operators you may encounter:
 | ?? | You can use two questions marks to search for functions associated with a specific topic (eg. ??csv). |
 | --- | --- |
 | ? | You can use one question mark to open the help file for a specific function (eg. ?read.csv). |
-| # | The number sign is used to enter a comment to describe the following commands. See the example below:Getting Started with R and RStudio - 8 R Comment |
+| # | The number sign is used to enter a comment to describe the following commands. See the example below: |
 | $ | The $ sign is used to access one variable or column in a dataset. (eg. dataname$age). |
 
  
