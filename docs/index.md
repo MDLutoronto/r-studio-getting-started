@@ -5,6 +5,9 @@ description: "This guide helps you get started with the R and RStudio software a
 staff:
     - name: Nadia Muhe
       link: https://library.utoronto.ca/staff/nadia-muhe
+maintainer:
+ - name: Nadia Muhe
+   link: https://library.utoronto.ca/staff/nadia-muhe
 created_date: 2020-07-03
 permalink: "/"  #! Remove this if not the homepage
 ---
