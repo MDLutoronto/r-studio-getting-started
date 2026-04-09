@@ -148,7 +148,3 @@ Here are some operators you may encounter:
 | ? | You can use one question mark to open the help file for a specific function (eg. ?read.csv). |
 | # | The number sign is used to enter a comment to describe the following commands. See the example below: |
 | $ | The $ sign is used to access one variable or column in a dataset. (eg. dataname$age). |
-
- 
-
-Tools: [R](https://mdl.library.utoronto.ca/tools/r-0)
