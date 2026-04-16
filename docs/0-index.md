@@ -10,6 +10,8 @@ maintainer:
    link: https://library.utoronto.ca/staff/nadia-muhe
 created_date: 2020-07-03
 permalink: "/"  #! Remove this if not the homepage
+nav_order: 0
+has_children: true
 ---
 
 # Getting Started with R and R Studio
