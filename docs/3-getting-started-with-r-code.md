@@ -2,6 +2,13 @@
 title: Getting Started with R code
 parent: Getting Started with R and R Studio
 layout: default
+staff:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+maintainer:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+created_date: 2020-07-03
 nav_order: 3
 ---
 
@@ -76,3 +83,5 @@ Here are some operators you may encounter:
 | ? | You can use one question mark to open the help file for a specific function (eg. ?read.csv). |
 | # | The number sign is used to enter a comment to describe the following commands. See the example below: |
 | $ | The $ sign is used to access one variable or column in a dataset. (eg. dataname$age). |
+
+**Tool:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R)

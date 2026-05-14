@@ -2,6 +2,13 @@
 title: RStudio
 parent: Getting Started with R and R Studio
 layout: default
+staff:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+maintainer:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+created_date: 2020-07-03
 nav_order: 2
 ---
 
@@ -28,3 +35,5 @@ Some additional windows that are useful when you are getting started are the fol
 To rearrange these windows, go to the **Tools** menu and select **Global Options**. Click on the **Pane Layout** tool from the list on the left-hand side. You can use the Pane Layout tool to rearrange the windows. 
 
 Whenever you start a new data analysis project that you want to work on in RStudio, it is useful to create an RStudio project for it. A project file allows you to pick up where you left off whenever you quit RStudio. To create a new project, go to the **File** menu and select **New Project**. You can associate your new project with a new directory or an existing directory. After you create the project, you will find the project name in the top-right corner of the RStudio interface. The home directory in the files window will also be updated to your project folder and you will find the project file in this folder. 
+
+**Tool:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R)
