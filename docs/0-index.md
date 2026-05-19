@@ -6,12 +6,13 @@ staff:
     - name: Nadia Muhe
       link: https://library.utoronto.ca/staff/nadia-muhe
 maintainer:
- - name: Nadia Muhe
-   link: https://library.utoronto.ca/staff/nadia-muhe
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
 created_date: 2020-07-03
 permalink: "/"  #! Remove this if not the homepage
 nav_order: 0
 has_children: true
+has_toc: false
 ---
 
 # Getting Started with R and R Studio
@@ -21,4 +22,4 @@ This guide helps you get started with the R and RStudio software and R code. You
 
 For additional support, fill out the [support request form](https://mdl.library.utoronto.ca/research/help).
 
-Tool: [R](https://mdlutoronto.github.io/tutorials-search/?tool=R)
+**Tool:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R)
