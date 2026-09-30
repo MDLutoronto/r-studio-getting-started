@@ -20,6 +20,6 @@ has_toc: false
 This guide helps you get started with the R and RStudio software and R code. You can install R from the [R homepage](https://www.r-project.org/). And you can install RStudio from the [RStudio homepage](https://rstudio.com/). A more thorough introduction to the R language is covered [here](https://mdlutoronto.github.io/r-intro/).
 
 
-For additional support, fill out the [support request form](https://mdl.library.utoronto.ca/research/help).
+For additional support, fill out the [support request form](https://library.utoronto.ca/contact-us/data-maps).
 
 **Tool:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R)
